@@ -1,4 +1,4 @@
-# Group3
+# CS 250 - Group 3
 
 Alan Shami
 Katherine Nemits
