@@ -3,7 +3,7 @@
 # Clothing Store Point of Sale System
 A mobile App System for a Clothing Store.
 ## Creators:
-  - Alan Shami
+  - Alan Shami - DevOps Engineer
   - Katherine Nemits
   - Huu-Khoa P Nguyen
 ## System Architectural Diagram
